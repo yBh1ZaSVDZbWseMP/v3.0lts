@@ -1,7 +1,7 @@
  
 ### TESTED ON OS <br/>
-- Debian 10 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Debian&label=DEBIAN%2010&message=Tested&color=purple">
-- Ubuntu 20.04.05 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Ubuntu&label=UBUNTU%2020.04.05&message=Tested&color=orange">  
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Debian&label=DEBIAN%2010&message=Tested&color=purple">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Ubuntu&label=UBUNTU%2020.04.05&message=Tested&color=orange">  
 
 ### FITUR TAMBAHAN
 - Tambah Swap 1GiB
