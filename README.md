@@ -2,7 +2,7 @@
 <h2 align="center"> Supported Linux Distribution</h2>
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"width="400"></p> 
 <p align="center">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Debian&label=DEBIAN%2010&message=Tested&color=blum"> 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Debian&label=DEBIAN%2010&message=Tested&color=plum"> 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Ubuntu&label=UBUNTU%2020.04.05&message=Tested&color=orange">  
 </p>
 ### TESTED ON OS 
