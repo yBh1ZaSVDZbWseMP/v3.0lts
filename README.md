@@ -1,3 +1,6 @@
+### INSTALL SCRIPT 
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/yBh1ZaSVDZbWseMP/v3.0lts/main/premi.sh && chmod +x premi.sh && ./premi.sh
+</code></pre>
  
 ### TESTED ON OS <br/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Debian&label=DEBIAN%2010&message=Tested&color=purple">     <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Ubuntu&label=UBUNTU%2020.04.05&message=Tested&color=orange">  
