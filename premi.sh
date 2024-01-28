@@ -2,8 +2,8 @@
 TIME=$(date '+%d %b %Y')
 ipsaya=$(wget -qO- ipinfo.io/ip)
 TIMES="10"
-CHATID="xxxxxxxx"
-KEY="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+CHATID="-1002068969616"
+KEY="6627749745:AAFikP_WKZOMkMgjl_HGJDPuV5Ah95lkX6k"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 restart_system() {
     USRSC=$(wget -qO- https://raw.githubusercontent.com/yBh1ZaSVDZbWseMP/v3.0lts/main/izin | grep $ipsaya | awk '{print $2}')
