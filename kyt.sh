@@ -18,7 +18,7 @@ clear
 wget https://raw.githubusercontent.com/yBh1ZaSVDZbWseMP/v3.0lts/main/limit/kyt.zip
 unzip kyt.zip
 pip3 install -r kyt/requirements.txt
-
+clear
 #isi data
 echo ""
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"

@@ -21,7 +21,7 @@ restart_system() {
 <code>Exp Sc : </code><code>$EXPSC</code>
 <code>────────────────────</code>
 <i>Automatic Notification from Github</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ🐳","url":"t.me/budi_spielberg"},{"text":"ɪɴꜱᴛᴀʟʟ🐬","url":"t.me/budi_spielberg"}]]}'
+"'&reply_markup={"inline_keyboard":[[{"text":"Telegram🐳","url":"t.me/budi_spielberg"},{"text":"whatsapp🐬","url":"wa.me/6282306188666"}]]}'
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
 #!/bin/bash
@@ -59,7 +59,7 @@ echo -e "${YELLOW}==========================================================${NC
 echo -e "  Script Auto Installer VPS V3.0 Lts ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "  E L V A R E T T A   S T O R E"
 echo -e "  Auther : ${green}budi_spielberg ${NC}${YELLOW}(${NC}${green} t.me/budi_spielberg ${NC}${YELLOW})${NC}"
-echo -e "  © Recode By My Self. LAMPUNG 2023"
+echo -e "  © Recode By budi_spielberg. LAMPUNG 2023"
 echo -e "${YELLOW}==========================================================${NC}"
 echo ""
 sleep 2
@@ -537,7 +537,7 @@ function udp_mini(){
 clear
 print_install "Memasang Service Limit Quota"
 wget raw.githubusercontent.com/yBh1ZaSVDZbWseMP/v3.0lts/main/limit/limit.sh && chmod +x limit.sh && ./limit.sh
-
+clear
 cd
 wget -q -O /usr/bin/limit-ip "${REPO}limit/limit-ip"
 chmod +x /usr/bin/*
@@ -715,9 +715,9 @@ account default
 host smtp.gmail.com
 port 587
 auth on
-user oceantestdigital@gmail.com
-from oceantestdigital@gmail.com
-password jokerman77 
+user megawati.bd98@gmail.com
+from megawati.bd98@gmail.com
+password Mega@Lampung123
 logfile ~/.msmtp.log
 EOF
 chown -R www-data:www-data /etc/msmtprc
